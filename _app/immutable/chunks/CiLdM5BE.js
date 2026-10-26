@@ -1,0 +1,1 @@
+function e(){return document.documentElement.classList.contains(`scuro`)}function t(){let t=!e();document.documentElement.classList.toggle(`scuro`,t);try{localStorage.setItem(`fooxia-tema`,t?`scuro`:`chiaro`)}catch{}return t}export{e as n,t};

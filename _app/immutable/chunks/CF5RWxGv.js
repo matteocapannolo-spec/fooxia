@@ -1,0 +1,1 @@
+import{o as e}from"./CsB1oL4O.js";import"./BYsaNhyt.js";var t=`fooxia.it`;function n(t){return new URL(e(`/[slug]`,{slug:t}),window.location.origin).href}function r(e){return`${t}/${e}`}function i(e){if(!e)return null;try{let t=new URL(e,window.location.origin);return t.origin===window.location.origin?t.pathname+t.search:null}catch{return null}}export{i,r as n,n as r,t};

@@ -1,0 +1,1 @@
+import{Z as e}from"./BvDGcms7.js";import{v as t}from"./CsFk4SV2.js";var n=e({utente:null,pronta:!1});async function r(){try{n.utente=await t()}finally{n.pronta=!0}}function i(e){n.utente=e}export{i as n,n as r,r as t};

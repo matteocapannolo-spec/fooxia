@@ -1,0 +1,1 @@
+import{L as e,it as t,rt as n,tt as r}from"../chunks/BvDGcms7.js";import{r as i}from"../chunks/CxzCLyJn.js";import{t as a}from"../chunks/DiXzTml4.js";function o(o,s){t(s,!0);{let t=r(i);a(o,{get iniziale(){return e(t)},nuovo:!0})}n()}export{o as component};
